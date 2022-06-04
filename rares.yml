@@ -1,0 +1,72 @@
+rares:
+  shadowlands:
+    - name: Nerissa Heartless
+      mount: Gorespine
+      mountId: 182084
+    - name: Warbringer Mal'Korak
+      mount: Blisterback Bloodtusk
+      mountId: 182085
+    - name: Theater of Pain
+      mount: Gnawed Reins of the Battle-Bound Warhound
+      mountId: 184062
+    - name: Oozing Necroray Egg
+      mount: Bulbous Necroray
+      mountId: 184160
+    - name: Reliwik
+      mount: Garnet Razorwing
+      mountId: 186652
+    - name: Death's Advance Supplies
+      mount: Fierce Razorwing
+      mountId: 186649
+    - name: Death's Advance Supplies
+      mount: Beryl Shardhide
+      mountId: 186644
+    - name: Famu the Infinite
+      mount: Endmire Flyer Tether
+      mountId: 180582
+    - name: Venthyr Maw Assault
+      mount: Harvester's Dredwing Saddle
+      mountId: 185996
+    - name: Fallen Charger
+      mount: Fallen Charger's Reins
+      mountId: 186659
+    - name: Cache of the Ascended
+      mount: Ascended Skymane
+      mountId: 183741
+    - name: Rhuv + Iska
+      mount: Iska's Mawrat Leash
+      mountId: 190765
+    - name: Protoform Synthesis
+      mount: Bronzewing Vespoid
+      mountId: 187663
+    - name: Enlightened Broker Supplies
+      mount: Russet Bufonid
+      mountId: 188810
+  necrolord:
+    - name: Tahonta
+      mount: Bonehoof Tauralus
+      mountId: 182075
+    - name: Fleshwing
+      mount: Lord of the Corpseflies
+      mountId: 186489
+    - name: Things To Do When You're Dead
+      mount: Armored Chosen Tauralus
+      mountId: 181820
+  nightfae:
+    - name: Queen's conservatory Cache
+      mount: Enchanted Wakener's Runestag
+      mountId: 180723
+  kyrian:
+    - name: Wild Worldcracker
+      mount: Forsworn Aquilon
+      mountId: 186483
+  venthyr:
+    - name: The Avowed
+      mount: Inquisition Gargon
+      mountId: 182954
+    - name: Hopecrusher
+      mount: Hopecrusher Gargon
+      mountId: 180581
+    - name: The Countess (Ember Court)
+      mount: Desire's Battle Gargon
+      mountId: 182209
